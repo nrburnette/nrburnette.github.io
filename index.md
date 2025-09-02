@@ -1,6 +1,5 @@
----
+
 Nick Burnette — ePortfolio
----
 # Hi, I'm Nick
 Full-stack dev (MEAN), Android, and CS capstone projects.
 
