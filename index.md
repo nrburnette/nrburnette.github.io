@@ -13,3 +13,6 @@ Full-stack dev (MEAN), Android, and CS capstone projects.
 
 - **Bitbucket Work**  
   - [Calculator Project](https://bitbucket.org/calculator2/calculator/src/master/)
+
+- **Code Review**
+[![Watch the Code Review for my SNHU Capstone Project](https://img.youtube.com/vi/vBrBAROHwGs/0.jpg)](https://www.youtube.com/watch?v=vBrBAROHwGs)
