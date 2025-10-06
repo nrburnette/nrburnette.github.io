@@ -14,6 +14,9 @@ Full-stack dev (MEAN), Android, and CS capstone projects.
 - **Bitbucket Work**  
   - [Calculator Project](https://bitbucket.org/calculator2/calculator/src/master/)
 
+- **CAPSTONE Portfolio:**
+  - [Download Artifact 1 - UI/UX Personalization & Progress Tracker (Android .apk)](https://github.com/nrburnette/nrburnette.github.io/raw/main/NickBurnette-Capstone-Artifact1.apk)
+
 - **Code Review**
 
 <p align="center">
