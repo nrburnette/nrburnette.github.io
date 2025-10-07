@@ -16,6 +16,7 @@ Full-stack dev (MEAN), Android, and CS capstone projects.
 
 - **CAPSTONE Portfolio:**
   - <a href="https://github.com/nrburnette/nrburnette.github.io/raw/main/NickBurnette-Capstone-Artifact1.apk" download>📱 Download Artifact 1 – UI/UX Personalization & Progress Tracker (Android .apk)</a>
+  - <a href="https://github.com/nrburnette/nrburnette.github.io/raw/main/NickBurnette-Capstone-Artifact1.apk" download>📱 Download Artifact 2 – Trend Analyzer & Algorithms  (Android .apk)</a>
 
 - **Code Review**
 
